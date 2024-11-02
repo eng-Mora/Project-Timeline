@@ -6,8 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: url('https://i.ibb.co/G2dH87P/Clipped-image-20240718-232638.png') no-repeat center center fixed;
-            background-size: cover;
+            background-color: #f4f4f9;
             color: #333;
             margin: 0;
             padding: 0;
@@ -32,7 +31,6 @@
             max-width: 1200px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
             margin: 20px auto;
-            background-color: #ffffffcc; /* Adds transparency to the table background */
         }
 
         thead {
@@ -262,4 +260,5 @@
         </tbody>
     </table>
 </div>
+
 
