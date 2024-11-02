@@ -135,35 +135,40 @@
                 <td>Fri 2/15/13</td>
                 <td>1.5</td>
                 <td>Maria</td>
+                </tr>
+
             <tr>
-                <td>2</td>
-                <td class="task-category">JavaScript Functionality</td>
-                <td colspan="5"></td>
-            </tr>
-                <td>2.1</td>
-                <td>Render Video Items Dynamically</td>
-                <td>3 days</td>
-                <td>Mon 2/18/13</td>
-                <td>Wed 2/20/13</td>
-                <td></td>
-                <td>Jason</td>
-            </tr>
-                <td>2.2</td>
-                <td>Add Video to Cart Functionality</td>
-                <td>2 days</td>
-                <td>Thu 2/21/13</td>
-                <td>Fri 2/22/13</td>
-                <td>2.1</td>
-                <td>Carly</td>
-            </tr>
-                <td>2.3</td>
-                <td>Display Cart Items in Modal</td>
-                <td>1 day</td>
-                <td>Mon 2/25/13</td>
-                <td>Mon 2/25/13</td>
-                <td>2.2</td>
-                <td>Maria</td>
-            </tr>
+    <td>2</td>
+    <td class="task-category">JavaScript Functionality</td>
+    <td colspan="5"></td>
+</tr>
+<tr> <!-- Missing <tr> tag added here -->
+    <td>2.1</td>
+    <td>Render Video Items Dynamically</td>
+    <td>3 days</td>
+    <td>Mon 2/18/13</td>
+    <td>Wed 2/20/13</td>
+    <td></td>
+    <td>Jason</td>
+</tr>
+<tr> <!-- Missing <tr> tag added here -->
+    <td>2.2</td>
+    <td>Add Video to Cart Functionality</td>
+    <td>2 days</td>
+    <td>Thu 2/21/13</td>
+    <td>Fri 2/22/13</td>
+    <td>2.1</td>
+    <td>Carly</td>
+</tr>
+<tr> <!-- Missing <tr> tag added here -->
+    <td>2.3</td>
+    <td>Display Cart Items in Modal</td>
+    <td>1 day</td>
+    <td>Mon 2/25/13</td>
+    <td>Mon 2/25/13</td>
+    <td>2.2</td>
+    <td>Maria</td>
+</tr>
             <tr>
                 <td>3</td>
                 <td class="task-category">User Interface Enhancements</td>
@@ -260,5 +265,4 @@
         </tbody>
     </table>
 </div>
-
 
